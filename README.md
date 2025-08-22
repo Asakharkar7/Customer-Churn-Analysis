@@ -46,7 +46,7 @@ It demonstrates how a Data Analyst:
 
 
   Dashboard Preview
-![Churn Dashboard](dashboard/churn_dashboard_screenshot.png)
+![Churn Dashboard](churn_analysis_dashboard.png)
 
 
 
