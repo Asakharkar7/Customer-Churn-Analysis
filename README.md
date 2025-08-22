@@ -1,7 +1,7 @@
 
 
 
-  **Key Insights****
+  **Key Insights**
 - 26.6% churn rate overall (~1 in 4 customers).  
 - Month-to-Month contracts** are most risky → highest churn.  
 - Tenure < 12 months strongly predicts churn → onboarding phase is critical.  
@@ -12,7 +12,7 @@
 
 
 
-  **Tech Stack****
+  **Tech Stack**
 - Python (Pandas, NumPy, Matplotlib, Seaborn) → Data cleaning, EDA, visualization.  
 - Google Colab → Notebook execution environment.  
 - Power BI → Executive dashboard (KPIs, churn breakdowns, slicers).  
@@ -20,7 +20,7 @@
 
 
 
-**  Deliverables**
+**Deliverables**
 - EDA Notebook: [churn_analysis_colab.ipynb](churn_analysis_colab.ipynb) 
 - Cleaned Dataset: [TelcoChurn_Cleaned.csv](TelcoChurn_Cleaned.csv)  
 - Dashboard (Power BI): [churn_dashboard.pbix](Customer_Churn_Analysis.pbix)  
@@ -29,7 +29,7 @@
 
 
 
-**  Business Recommendations**
+**Business Recommendations**
 1. Incentivize long-term contracts with discounts or perks.  
 2. Launch a first-year retention program to reduce early churn.  
 3. Adjust pricing tiers for high-charge customers (>$80/month).  
@@ -38,7 +38,7 @@
 
 
 
-**  Why This Project Matters**
+**Why This Project Matters**
 This project mirrors a **real-world business problem**: customer retention.  
 It demonstrates how a Data Analyst:  
 1. Cleans & explores raw data.  
@@ -47,13 +47,13 @@ It demonstrates how a Data Analyst:
 
 
 
- ** Dashboard Preview**
+ **Dashboard Preview**
 ![Churn Dashboard](churn_analysis_dashboard.png)
 
 
 
-** Author
-Aniket Sakharkar **
+**Author
+Aniket Sakharkar**
 Data Analyst | Data Engineer | Business Insights Enthusiast  
  Email: aniketsakharkar4@gmail.com |  LinkedIn: http://www.linkedin.com/in/aniketsakharkar/   
 
