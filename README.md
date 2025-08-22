@@ -20,9 +20,9 @@
 
   Deliverables
 - EDA Notebook: [churn_analysis_colab.ipynb](churn_analysis_colab.ipynb) 
-- Cleaned Dataset: [TelcoChurn_Cleaned.csv](data/TelcoChurn_Cleaned.csv)  
-- Dashboard (Power BI): [churn_dashboard.pbix](Customer Churn Analysis.pbix)  
-- Dashboard Screenshot: ![](dashboard/churn_dashboard_screenshot.png)  
+- Cleaned Dataset: [TelcoChurn_Cleaned.csv](TelcoChurn_Cleaned.csv)  
+- Dashboard (Power BI): [churn_dashboard.pbix](Customer Churn Analysis.pbix)
+- Dashboard Screenshot: ![](churn analysis dashboard.png)  
 - Business Report: [churn_analysis_summary.pdf](report/churn_analysis_summary.pdf)  
 
 
