@@ -12,11 +12,13 @@
 
 
 
+
   **Tech Stack**
 - Python (Pandas, NumPy, Matplotlib, Seaborn) → Data cleaning, EDA, visualization.  
 - Google Colab → Notebook execution environment.  
 - Power BI → Executive dashboard (KPIs, churn breakdowns, slicers).  
 - GitHub → Version control, portfolio presentation.  
+
 
 
 
@@ -29,12 +31,14 @@
 
 
 
+
 **Business Recommendations**
 1. Incentivize long-term contracts with discounts or perks.  
 2. Launch a first-year retention program to reduce early churn.  
 3. Adjust pricing tiers for high-charge customers (>$80/month).  
 4. Promote Auto-Pay options to replace Electronic Check payments.  
 5. Engage customers with targeted campaigns in high-risk segments.  
+
 
 
 
@@ -48,8 +52,11 @@ It demonstrates how a Data Analyst:
 
 
 
+
  **Dashboard Preview**
+ 
 ![Churn Dashboard](churn_analysis_dashboard.png)
+
 
 
 
@@ -57,5 +64,6 @@ It demonstrates how a Data Analyst:
 Aniket Sakharkar**
 
 Data Analyst | Data Engineer | Business Insights Enthusiast  
+
  Email: aniketsakharkar4@gmail.com |  LinkedIn: http://www.linkedin.com/in/aniketsakharkar/   
 
