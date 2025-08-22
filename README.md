@@ -22,7 +22,7 @@
 - EDA Notebook: [churn_analysis_colab.ipynb](churn_analysis_colab.ipynb) 
 - Cleaned Dataset: [TelcoChurn_Cleaned.csv](TelcoChurn_Cleaned.csv)  
 - Dashboard (Power BI): [churn_dashboard.pbix](Customer_Churn_Analysis.pbix)  
-- Dashboard(pdf):![Churn_dashboard.pdf](Customer_Churn_Analysis_Dashboard.pdf)  
+- Dashboard(pdf):[Churn_dashboard.pdf](Customer_Churn_Analysis_Dashboard.pdf)  
 - Business Report: [churn_analysis_summary.pdf](report/churn_analysis_summary.pdf)  
 
 
