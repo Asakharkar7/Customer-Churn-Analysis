@@ -39,6 +39,7 @@
 
 
 **Why This Project Matters**
+
 This project mirrors a **real-world business problem**: customer retention.  
 It demonstrates how a Data Analyst:  
 1. Cleans & explores raw data.  
@@ -54,6 +55,7 @@ It demonstrates how a Data Analyst:
 
 **Author
 Aniket Sakharkar**
+
 Data Analyst | Data Engineer | Business Insights Enthusiast  
  Email: aniketsakharkar4@gmail.com |  LinkedIn: http://www.linkedin.com/in/aniketsakharkar/   
 
